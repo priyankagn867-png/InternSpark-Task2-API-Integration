@@ -1,0 +1,7 @@
+=== InternSpark API Integration: Crypto Market Explorer ===
+Search coin (blank = all): bitcoin
+Minimum price in USD (blank = 0): 100
+
+ID / NAME / SYMBOL / CURRENT PRICE / 24H CHANGE
+------------------------------------------------------------------------
+bitcoin            Bitcoin            BTC       [live]       [live]%
